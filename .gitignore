@@ -1,0 +1,11 @@
+# ignore DS_Store
+.DS_Store
+
+# ignore all data files
+*.txt
+
+# ignore all data files
+*.dat
+
+# ignore pycache
+__pycache__/
